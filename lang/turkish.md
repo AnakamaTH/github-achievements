@@ -1,6 +1,6 @@
 # GitHub profil rozet ve başarılarımlarının tam listesi
 
-_Bunu başka bir dilde okuyun [other languages](../README.md)._
+_Read this in [other languages](../README.md)._
 
 <br>
 
