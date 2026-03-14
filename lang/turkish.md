@@ -1,10 +1,10 @@
-# Complete list of all GitHub Profile badges and Achievements
+# GitHub profil rozet ve başarılarımlarının tam listesi
 
-_Read this in [other languages](../README.md)._
+_Bunu başka bir dilde okuyun [other languages](../README.md)._
 
 <br>
 
-| Badge | Name | How to get                                                                                                                                                       |
+| Rozet | İsim | Nasıl alınır                                                                                                                                                       |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
 | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
@@ -20,11 +20,11 @@ _Read this in [other languages](../README.md)._
 
 <br>
 
-## Badge Tiers
+## Rozet Seviyeleri
 
-Some Achievements not only have the base version, but also tiers.
+Bazı başarımlar sadece temel versiyona değil, aynı zamanda seviyelere de sahiptir.
 
-| Achievement | Default | Bronze | Silver | Gold |
+| Başarım | Temel | Bronz | Gümüş | Altın |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
 | | 16 stars | 128 stars | 512 stars | 4096 stars <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
