@@ -31,7 +31,7 @@ Bazı başarımlar sadece temel versiyona değil, aynı zamanda seviyelere de sa
 | Başarım | Temel | Bronz | Gümüş | Altın |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
-| | 16 stars | 128 stars | 512 stars | 4096 stars <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
+| | 16 yıldız | 128 yıldız | 512 yıldız | 4096 yıldız <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
 | **Pair Extraordinaire** | ![Achievement badge Pair Extraordinaire][pe-default] | ![Bronze badge Pair Extraordinaire][pe-bronze] | ![Silver badge Pair Extraordinaire][pe-silver] | ![Gold badge Pair Extraordinaire][pe-gold] |
 | | 1 çekme isteği <br>[@gomzyakov](https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements) | 10 çekme isteği | 24 çekme isteği  | 48 çekme isteği <br>[@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements) |
 | **Pull Shark** | ![Achievement badge Pull Shark][ps-default] | ![Bronze badge Pull Shark][ps-bronze] | ![Silver badge Pull Shark][ps-silver] | ![Gold badge Pull Shark][ps-gold] |
@@ -93,7 +93,7 @@ Tercih ettiğiniz ten rengini [görünüm ayarları](https://github.com/settings
 
 <br>
 
-## Highlights Badges
+## Öne Çıkanlar Rozetleri
 
 | Rozet | İsim | Nasıl kazanılır |
 | --- | --- | --- |
@@ -111,6 +111,6 @@ Tercih ettiğiniz ten rengini [görünüm ayarları](https://github.com/settings
 
 <br>
 
-## Fikirlerin mi var?
+## Fikirleriniz mi var?
 
 Bu sayfadaki bilgilerin nasıl iyileştirilebileceğine dair sorularınız veya önerileriniz varsa, istediğiniz zaman [problemler](https://github.com/gomzyakov/github-achievements/issues)'e yazabilirsiniz.
