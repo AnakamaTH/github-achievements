@@ -1,7 +1,3 @@
----
-permalink: /turkish
----
-
 # GitHub profil rozet ve başarılarımlarının tam listesi
 
 _Read this in [other languages](../README.md)._
