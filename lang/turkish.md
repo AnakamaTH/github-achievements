@@ -15,8 +15,8 @@ _Read this in [other languages](../README.md)._
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 veya [daha fazla](#badge-tiers) kabul edilmiş cevabı olmalı.                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Kod incelemesi olmadan **en az bir** çekme isteği birleştirmeli.                                                                                                    |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | [GitHub Sponsors](https://github.com/sponsors) aracılığıyla açık kaynak çalışmalarına sponsor olmalı.                                                            |
-| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Now unable to earn.* |
-| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Now unable to earn.*                                 |
+| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Artık alınamaz.* |
+| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Artık alınamaz.*                                 |
 
 <br>
 
@@ -61,15 +61,15 @@ Bazı başarımlar sadece temel versiyona değil, aynı zamanda seviyelere de sa
 
 <br>
 
-## Achievement Skin Tone
+## Başarım Ten Renkleri
 
-Some achievements' appearance depends on your Emoji Skin Tone Preference.
+Bazı başarımların görünümü Emoji Ten Rengi ayarınıza göre değişir.
 
-You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+Tercih ettiğiniz ten rengini [görünüm ayarları](https://github.com/settings/appearance)'na giderek değiştirebilirsiniz.
 
 <br>
 
-| **Badge** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
+| **Rozet** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Default skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
 | **Quickdraw** | ![Default skin tone of Quickdraw][q-default] | ![Light skin tone of Quickdraw][q-light] | ![Light-medium skin tone of Quickdraw][q-light-medium] | ![Medium skin tone of Quickdraw][q-medium] | ![Medium-dark skin tone of Quickdraw][q-medium-dark] | ![Dark skin tone of Quickdraw][q-dark] |
